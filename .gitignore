@@ -1,0 +1,35 @@
+# =========================
+# MATLAB / Simulink
+# =========================
+*.asv
+*.autosave
+*.slxc
+*.mexa64
+*.mexmaci64
+*.mexw64
+slprj/
+sccprj/
+codegen/
+
+# Simulink cache
+*.slxc
+SimulationResults/
+
+# MATLAB code generation
+*.mlappinstall
+*.mltbx
+
+# =========================
+# OS-specific
+# =========================
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+*.swp
+*.swo
+*~
