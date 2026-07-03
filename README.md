@@ -1,7 +1,5 @@
 # Data-Driven Adaptive Cruise Control for Trucks with Lane-Keeping Assistance
 
-Replication and extension of the IEEE Transactions on Vehicular Technology paper using pure MATLAB/Simulink.
-
 ## Project Overview
 
 This project implements a **data-driven Adaptive Cruise Control (ACC)** system for heavy-duty trucks, integrated with a **Lane-Keeping Assistance (LKA)** module. The vehicle dynamics are modeled using a 5-DOF (Degree of Freedom) truck plant with Magic Formula tire modeling.
